@@ -13,8 +13,8 @@ Key objectives of this project include:
 
  ## 🗂️Preview
 ### 1. SQL Queries Report [ View ](https://github.com/ManishKukreja98/pizza-sales-analysis/blob/2ad8239afd73bdbf1fc479927e5cb78ae295609e/PIZZA%20SALES%20SQL%20QUERIES%20REPORT.pdf)
-    
-    ![Screenshot SQL report](https://github.com/ManishKukreja98/pizza-sales-analysis/blob/2ad8239afd73bdbf1fc479927e5cb78ae295609e/Assets/Screenshot%20SQL%20queries%20report.png)
+
+<img width="388" height="368" alt="Screenshot SQL queries report" src="https://github.com/user-attachments/assets/a2c76a69-1bbe-4ddd-af76-cd96643635f2" />
 
 ### 2. Excel Dashboard [ View ](https://github.com/ManishKukreja98/pizza-sales-analysis/blob/2ad8239afd73bdbf1fc479927e5cb78ae295609e/Excel%20pizzasales%20dashboard%200complete.xlsx)
 
