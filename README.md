@@ -1,6 +1,6 @@
-# Pizza Sales Analysis  | SQL · Excel · Power BI
+# 🍕Pizza Sales Analysis  | SQL · Excel · Power BI
 
-## Project Overview  
+## 📊Project Overview  
 This project is an **end-to-end data analysis of pizza sales** aimed at uncovering key business insights and performance trends.  
 The analysis focuses on tracking revenue, order behavior, and product performance to support data-driven decision-making.  
 
@@ -9,9 +9,24 @@ Key objectives of this project include:
 - Identifying order patterns across time (daily, monthly, hourly).  
 - Evaluating customer preferences by pizza size and category.  
 - Highlighting best and worst-performing pizzas by revenue, quantity, and orders.  
-- Recommending actionable strategies to improve sales and efficiency.  
+- Recommending actionable strategies to improve sales and efficiency.
 
-## Executive Summary  
+ ## 🗂️Preview
+### 1. SQL Queries Report [ View ](https://github.com/ManishKukreja98/pizza-sales-analysis/blob/2ad8239afd73bdbf1fc479927e5cb78ae295609e/PIZZA%20SALES%20SQL%20QUERIES%20REPORT.pdf)
+    
+    ![Screenshot SQL report](https://github.com/ManishKukreja98/pizza-sales-analysis/blob/2ad8239afd73bdbf1fc479927e5cb78ae295609e/Assets/Screenshot%20SQL%20queries%20report.png)
+
+### 2. Excel Dashboard [ View ](https://github.com/ManishKukreja98/pizza-sales-analysis/blob/2ad8239afd73bdbf1fc479927e5cb78ae295609e/Excel%20pizzasales%20dashboard%200complete.xlsx)
+
+   ![Screenshot EXCEL](https://github.com/ManishKukreja98/pizza-sales-analysis/blob/2ad8239afd73bdbf1fc479927e5cb78ae295609e/Assets/Screenshot%20Excel%20dashboard.png)
+
+### 3. PowerBI Dashboard [ View ](https://github.com/ManishKukreja98/pizza-sales-analysis/blob/2ad8239afd73bdbf1fc479927e5cb78ae295609e/pizza%20sales%20powerbi%20dashboard.pbix)
+
+   ![Screenshot powerbi](https://github.com/ManishKukreja98/pizza-sales-analysis/blob/2ad8239afd73bdbf1fc479927e5cb78ae295609e/Assets/screenshot%20powerbi%20pizza%20sales%20dashboard.png)
+   
+   ![Screenshot powerbi](https://github.com/ManishKukreja98/pizza-sales-analysis/blob/2ad8239afd73bdbf1fc479927e5cb78ae295609e/Assets/screenshot%202%20powerbi%20ps%20dashboard.png)
+   
+## 📝Executive Summary  
 
 The objective of this project was to analyze pizza sales data in order to measure business performance and uncover actionable insights. The analysis focused on addressing key business questions through defined problem statements, performance metrics, and visual reporting.  
 
@@ -53,7 +68,7 @@ This end-to-end analysis enables the business to:
 - Recognize best sellers to maximize promotion strategies.  
 - Detect underperforming pizzas to reassess product offerings.
 
- ## Methodology  
+ ## 🛠️Methodology  
 
 The analysis was carried out using a combination of SQL, Excel, and Power BI. Each tool played a specific role in ensuring data accuracy, validation, and interactive reporting.  
   
@@ -77,7 +92,7 @@ The analysis was carried out using a combination of SQL, Excel, and Power BI. Ea
 - Built **custom visuals** (bar, line, pie, funnel charts) to meet business requirements.  
 - Designed a structured dashboard layout for easy navigation and decision-making.  
 
-## Insights  
+## 📈Insights  
 
 The analysis of pizza sales data revealed the following key insights:  
 
@@ -98,7 +113,7 @@ The analysis of pizza sales data revealed the following key insights:
 ### Worst Sellers  
 - *Brie Carre Pizza* records the **lowest revenue**, **lowest quantity sold**, and **lowest total orders**.  
 
-## Recommendations  
+## 🎯Recommendations  
 
 Based on the insights from the sales data, here are key recommendations to improve overall business performance:  
 
